@@ -1,9 +1,9 @@
 import Head from "next/head";
 
 export default function Meta({ title, keywords, description }) {
-    const homepage = "https://atsresume.vercel.app/";
-    const logo = "https://atsresume.vercel.app/assets/logo.png";
-    const fevicon = "https://atsresume.vercel.app/assets/favicon.ico";
+    const homepage = "https://resume.amaanbhati.tech/";
+    const logo = "/assets/logo.png";
+    const fevicon = "/assets/favicon.ico";
 
     function isiteJsonLd() {
         return {
@@ -20,10 +20,10 @@ export default function Meta({ title, keywords, description }) {
                 "image": ${logo},
                 "description": ${description},
                 "founder": "Amaan Bhati",
-                "foundingDate": "2023",
+                "foundingDate": "2024",
                 "foundingLocation": "IN",
-                "email": "xyz@gmail.com",
-                "telephone": "+91 9999999999",
+                "email": "amaanbhati49@gmail.com",
+                "telephone": "+91 6200658194",
                 "areaServed": "IN",
                 "keywords": ${keywords},
                 "mainEntityOfPage": ${homepage},
