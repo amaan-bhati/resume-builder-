@@ -18,6 +18,10 @@ const DefaultResumeData = {
       socialMedia: "Website",
       link: "amaanbhati.tech",
     },
+ {
+      socialMedia: "Website",
+      link: "contact.amaanbhati.tech",
+    },
   ],
   summary: "Result-driven Computer Science student with a strong aptitude for development and proficiency in modern   frameworks, Eager to contribute technical skills and innovation to a dynamic software engineering role in a cutting-edge tech environment. Recognized for being a quick learner with the ability to swiftly adapt to new technology stacks.",
   
