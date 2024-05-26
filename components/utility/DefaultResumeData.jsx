@@ -3,8 +3,8 @@ const DefaultResumeData = {
   position: "Web/Software Developer",
   contactInformation: "6200658194",
   email: "amaanbhati49@gmail.com",
-  address: "Bangalore, India",
-  profilePicture: "",
+  // address: "Bangalore, India",
+  // profilePicture: "",
   socialMedia: [
     {
       socialMedia: "Github",
